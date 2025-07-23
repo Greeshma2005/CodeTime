@@ -58,6 +58,7 @@ Built using `manifest v3`, JavaScript, and `Chart.js`.
 
 ## 🗃️ File Structure
 
+```
 CodeTime/
 ├── manifest.json          # Extension configuration  
 ├── background.js          # Service worker for time tracking  
@@ -71,7 +72,7 @@ CodeTime/
     ├── icon48.png  
     └── icon128.png  
 
-
+```
 
 ---
 
